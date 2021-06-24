@@ -25,4 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### View Demo
-[Configuration Reference](https://prueba-tecnica-front-end.herokuapp.com/)
+[View Demo](https://prueba-tecnica-front-end.herokuapp.com/)
